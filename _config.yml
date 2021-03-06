@@ -1,2 +1,3 @@
 	name: Hi there, I'm Rema Yunanto!
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
