@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Blog has been Launched!
+title: "The Blog has been Launched!"
 date: 2021-03-07
 ---
 
